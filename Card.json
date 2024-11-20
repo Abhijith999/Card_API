@@ -2,25 +2,25 @@
     {
         "id": 1,
         "title": "Global Medical Affairs Dashboard",
-        "sub-title": "Scientific and clinical information",
+        "subTitle": "Scientific and clinical information",
         "description": "The Global Medical Affairs Dashboard provides an extensive overview of scientific and clinical data, enabling healthcare professionals to access up-to-date research, patient care protocols, and emerging trends. It serves as a centralized hub for monitoring global medical practices and ensuring that all relevant stakeholders are informed with reliable and accurate information.",
-        "primary-btns": [
+        "primaryBtn": [
             {
-                "btn-title": "Visit Primary 1",
+                "btnTitle": "Visit Primary 1",
                 "url": "www.example1.com"
             },
             {
-                "btn-title": "Learn More 1",
+                "btnTitle": "Learn More 1",
                 "url": "www.example1-more.com"
             }
         ],
-        "secondary-btns": [
+        "secondaryBtn": [
             {
-                "btn-title": "Visit Secondary 1",
+                "btnTitle": "Visit Secondary 1",
                 "url": "www.example1.com"
             },
             {
-                "btn-title": "More Details 1",
+                "btnTitle": "More Details 1",
                 "url": "www.example1-details.com"
             }
         ]
@@ -28,25 +28,25 @@
     {
         "id": 2,
         "title": "Regional Medical Affairs Dashboard",
-        "sub-title": "Local healthcare insights",
+        "subTitle": "Local healthcare insights",
         "description": "The Regional Medical Affairs Dashboard provides in-depth insights into localized healthcare trends, enabling professionals to tailor their strategies based on region-specific data. From epidemiological statistics to patient feedback and healthcare infrastructure, this dashboard is designed to enhance regional decision-making and operational efficiency.",
-        "primary-btns": [
+        "primaryBtn": [
             {
-                "btn-title": "Visit Primary 2",
+                "btnTitle": "Visit Primary 2",
                 "url": "www.example2.com"
             },
             {
-                "btn-title": "Learn More 2",
+                "btnTitle": "Learn More 2",
                 "url": "www.example2-more.com"
             }
         ],
-        "secondary-btns": [
+        "secondaryBtn": [
             {
-                "btn-title": "Visit Secondary 2",
+                "btnTitle": "Visit Secondary 2",
                 "url": "www.example2.com"
             },
             {
-                "btn-title": "More Details 2",
+                "btnTitle": "More Details 2",
                 "url": "www.example2-details.com"
             }
         ]
@@ -54,25 +54,25 @@
     {
         "id": 3,
         "title": "Clinical Trials Dashboard",
-        "sub-title": "Research and trial statistics",
+        "subTitle": "Research and trial statistics",
         "description": "The Clinical Trials Dashboard delivers comprehensive statistics and insights into ongoing and completed clinical trials worldwide. Users can track trial phases, outcomes, and study parameters, allowing for better planning and evaluation of medical innovations and therapeutic breakthroughs.",
-        "primary-btns": [
+        "primaryBtn": [
             {
-                "btn-title": "Visit Primary 3",
+                "btnTitle": "Visit Primary 3",
                 "url": "www.example3.com"
             },
             {
-                "btn-title": "Learn More 3",
+                "btnTitle": "Learn More 3",
                 "url": "www.example3-more.com"
             }
         ],
-        "secondary-btns": [
+        "secondaryBtn": [
             {
-                "btn-title": "Visit Secondary 3",
+                "btnTitle": "Visit Secondary 3",
                 "url": "www.example3.com"
             },
             {
-                "btn-title": "More Details 3",
+                "btnTitle": "More Details 3",
                 "url": "www.example3-details.com"
             }
         ]
@@ -80,25 +80,25 @@
     {
         "id": 4,
         "title": "Healthcare Analytics Dashboard",
-        "sub-title": "Data-driven insights",
+        "subTitle": "Data-driven insights",
         "description": "The Healthcare Analytics Dashboard empowers professionals with advanced tools to analyze patient data, financial metrics, and operational performance. With cutting-edge visualizations and predictive models, this dashboard helps organizations improve outcomes, reduce costs, and deliver more efficient care.",
-        "primary-btns": [
+        "primaryBtn": [
             {
-                "btn-title": "Visit Primary 4",
+                "btnTitle": "Visit Primary 4",
                 "url": "www.example4.com"
             },
             {
-                "btn-title": "Learn More 4",
+                "btnTitle": "Learn More 4",
                 "url": "www.example4-more.com"
             }
         ],
-        "secondary-btns": [
+        "secondaryBtn": [
             {
-                "btn-title": "Visit Secondary 4",
+                "btnTitle": "Visit Secondary 4",
                 "url": "www.example4.com"
             },
             {
-                "btn-title": "More Details 4",
+                "btnTitle": "More Details 4",
                 "url": "www.example4-details.com"
             }
         ]
@@ -106,25 +106,25 @@
     {
         "id": 5,
         "title": "Global Drug Monitoring Dashboard",
-        "sub-title": "Pharmacovigilance and safety data",
+        "subTitle": "Pharmacovigilance and safety data",
         "description": "The Global Drug Monitoring Dashboard provides real-time updates on drug safety and adverse event reporting. With tools for pharmacovigilance and regulatory compliance, this dashboard is essential for ensuring the safety and efficacy of medications throughout their lifecycle.",
-        "primary-btns": [
+        "primaryBtn": [
             {
-                "btn-title": "Visit Primary 5",
+                "btnTitle": "Visit Primary 5",
                 "url": "www.example5.com"
             },
             {
-                "btn-title": "Learn More 5",
+                "btnTitle": "Learn More 5",
                 "url": "www.example5-more.com"
             }
         ],
-        "secondary-btns": [
+        "secondaryBtn": [
             {
-                "btn-title": "Visit Secondary 5",
+                "btnTitle": "Visit Secondary 5",
                 "url": "www.example5.com"
             },
             {
-                "btn-title": "More Details 5",
+                "btnTitle": "More Details 5",
                 "url": "www.example5-details.com"
             }
         ]
@@ -132,25 +132,25 @@
     {
         "id": 6,
         "title": "Scientific Publications Dashboard",
-        "sub-title": "Published research and articles",
+        "subTitle": "Published research and articles",
         "description": "The Scientific Publications Dashboard is a repository of peer-reviewed articles, journals, and research papers. It allows users to explore the latest findings across various disciplines and gain insights into groundbreaking discoveries in science and medicine.",
-        "primary-btns": [
+        "primaryBtn": [
             {
-                "btn-title": "Visit Primary 6",
+                "btnTitle": "Visit Primary 6",
                 "url": "www.example6.com"
             },
             {
-                "btn-title": "Learn More 6",
+                "btnTitle": "Learn More 6",
                 "url": "www.example6-more.com"
             }
         ],
-        "secondary-btns": [
+        "secondaryBtn": [
             {
-                "btn-title": "Visit Secondary 6",
+                "btnTitle": "Visit Secondary 6",
                 "url": "www.example6.com"
             },
             {
-                "btn-title": "More Details 6",
+                "btnTitle": "More Details 6",
                 "url": "www.example6-details.com"
             }
         ]
@@ -158,25 +158,25 @@
     {
         "id": 7,
         "title": "Healthcare Innovations Dashboard",
-        "sub-title": "Cutting-edge medical technologies",
+        "subTitle": "Cutting-edge medical technologies",
         "description": "The Healthcare Innovations Dashboard showcases the latest advancements in medical technology, from AI-driven diagnostics to wearable health devices. It is a go-to resource for staying ahead in the rapidly evolving field of medical innovation.",
-        "primary-btns": [
+        "primaryBtn": [
             {
-                "btn-title": "Visit Primary 7",
+                "btnTitle": "Visit Primary 7",
                 "url": "www.example7.com"
             },
             {
-                "btn-title": "Learn More 7",
+                "btnTitle": "Learn More 7",
                 "url": "www.example7-more.com"
             }
         ],
-        "secondary-btns": [
+        "secondaryBtn": [
             {
-                "btn-title": "Visit Secondary 7",
+                "btnTitle": "Visit Secondary 7",
                 "url": "www.example7.com"
             },
             {
-                "btn-title": "More Details 7",
+                "btnTitle": "More Details 7",
                 "url": "www.example7-details.com"
             }
         ]
@@ -184,25 +184,25 @@
     {
         "id": 8,
         "title": "Medical Device Insights Dashboard",
-        "sub-title": "Usage and safety insights",
+        "subTitle": "Usage and safety insights",
         "description": "The Medical Device Insights Dashboard provides key information on the usage, safety, and performance of medical devices. From regulatory updates to user feedback, this dashboard ensures that healthcare providers can make informed decisions regarding device selection and application.",
-        "primary-btns": [
+        "primaryBtn": [
             {
-                "btn-title": "Visit Primary 8",
+                "btnTitle": "Visit Primary 8",
                 "url": "www.example8.com"
             },
             {
-                "btn-title": "Learn More 8",
+                "btnTitle": "Learn More 8",
                 "url": "www.example8-more.com"
             }
         ],
-        "secondary-btns": [
+        "secondaryBtn": [
             {
-                "btn-title": "Visit Secondary 8",
+                "btnTitle": "Visit Secondary 8",
                 "url": "www.example8.com"
             },
             {
-                "btn-title": "More Details 8",
+                "btnTitle": "More Details 8",
                 "url": "www.example8-details.com"
             }
         ]
@@ -210,25 +210,25 @@
     {
         "id": 9,
         "title": "Patient Outcomes Dashboard",
-        "sub-title": "Tracking health outcomes",
+        "subTitle": "Tracking health outcomes",
         "description": "The Patient Outcomes Dashboard provides a detailed analysis of health outcomes across different populations and treatment plans. By leveraging data from clinical studies and real-world evidence, this dashboard enables better patient care and improved quality of life.",
-        "primary-btns": [
+        "primaryBtn": [
             {
-                "btn-title": "Visit Primary 9",
+                "btnTitle": "Visit Primary 9",
                 "url": "www.example9.com"
             },
             {
-                "btn-title": "Learn More 9",
+                "btnTitle": "Learn More 9",
                 "url": "www.example9-more.com"
             }
         ],
-        "secondary-btns": [
+        "secondaryBtn": [
             {
-                "btn-title": "Visit Secondary 9",
+                "btnTitle": "Visit Secondary 9",
                 "url": "www.example9.com"
             },
             {
-                "btn-title": "More Details 9",
+                "btnTitle": "More Details 9",
                 "url": "www.example9-details.com"
             }
         ]
@@ -236,25 +236,25 @@
     {
         "id": 10,
         "title": "Global Health Dashboard",
-        "sub-title": "Insights into global health trends",
+        "subTitle": "Insights into global health trends",
         "description": "The Global Health Dashboard offers a macro view of global health trends, highlighting key areas such as disease prevalence, vaccination coverage, and healthcare accessibility. This dashboard is an invaluable tool for policymakers and organizations working to improve global health outcomes.",
-        "primary-btns": [
+        "primaryBtn": [
             {
-                "btn-title": "Visit Primary 10",
+                "btnTitle": "Visit Primary 10",
                 "url": "www.example10.com"
             },
             {
-                "btn-title": "Learn More 10",
+                "btnTitle": "Learn More 10",
                 "url": "www.example10-more.com"
             }
         ],
-        "secondary-btns": [
+        "secondaryBtn": [
             {
-                "btn-title": "Visit Secondary 10",
+                "btnTitle": "Visit Secondary 10",
                 "url": "www.example10.com"
             },
             {
-                "btn-title": "More Details 10",
+                "btnTitle": "More Details 10",
                 "url": "www.example10-details.com"
             }
         ]
